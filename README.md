@@ -1,3 +1,5 @@
+Blog post about this analysis: https://allanrivalles.medium.com/are-full-time-students-too-busy-to-think-about-changing-jobs-4a7ac473c133
+
 This is the code from the first project of the Data Science nanodegree of udacity.
 
 The purpose of the notebook is to answer some questions regarding Data Scientists' intention of changing to a new job.
